@@ -3,4 +3,4 @@ La stabilité est une forme de mouvement relativement discrète. C'est ce qui la
 
 Ce serait fort malhonnête de faire mention de ce semblant de thème pour PluXml sans faire référence à [schoewilliam](http://schoewilliam.fr "vers le site perso de schoewilliam"), dont le travail a été une grande inspiration, à la fois esthétique et technique.
 
-
+Je constate en rédigeant de manière très sporadique ce bout de texte sans forme et inintéressant, tout en m'exerçant un peu à vi et à git, que des changements, il y en a tellement eu ces derniers temps, que j'ai de la peine à en organiser le récit. La migration de mon blog sur PluXml a permis de libérer la racine de mon serveur Web. Elle était en effet occupée par le Wordpess. Il devait être possible de modifier cet état de fait, mais je n'y suis jamais parvenu. Du coup, une place s'est libérée pour une [page d'accueil](http://id-libre.org "la page d'accueil du domaine id-libre.org") et une [page personnelle](http://id-libre.org/iGor_milhit). Ces deux dernières page ne sont pas intégrées à PluXml, c'est du statique de chez statique. Tout comme les quelques pages regroupées sous l'URL <http://id-libre.org/listening/>.
