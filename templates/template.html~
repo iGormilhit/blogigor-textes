@@ -1,0 +1,21 @@
+<div style="text-align:justify;"><p>
+texte
+</p></div>
+
+<p>
+	<audio controls="controls" preloads="" title="">
+		<source src="" type="audio/ogg; codecs=vorbis">
+		<source src="" type="audio/mp3">
+		Ton navigateur ne supporte pas la balise audio html5 ? Télécharge le <a href="" title="">fichier</a>
+	</audio>
+</p>
+
+
+<div style="text-align:justify;"><p>
+texte
+</p></div>
+
+
+<div style="text-align:justify;"><p>
+texte
+</p></div>
