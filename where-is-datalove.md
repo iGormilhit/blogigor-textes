@@ -1,0 +1,13 @@
+De jours en jours, de semaines en semaines et de mois en mois, la chronique absurde du monde bourdonne, un magma sonore sans forme. Qui sait encore raconter des histoires ? Donner un peu de sens aux faits qui jouent aux chaises musicales ? Prendre du recul ? Quand on parle de la catastrophe, le ton et la concordance des temps sont souvent ceux du prophète. Afin d'oublier le présent. Pas maintenant, pas chez moi. Ebola en Afrique de l'ouest. La mondialisation ? L'omniprésence de l'avion ? Je ne veux rien savoir. Les guerres, les meurtres par drones interposés, les décapitations en Orient. Mais pas dans mes réseaux sociaux.
+
+Le plus souvent, les criminels ont droit à leur temps d'antenne. Comme toujours, les héros sont anonymes, invisibles, sans armes. Sans eux, le monde ne serait plus. Sans toi, le monde n'est plus.
+
+Il ne reste qu'à ne pas choisir son camp. [[Make #datalove not cyberwar]](https://about.okhin.fr/posts/MakeDataloveNotCyberwar/ "texte de la conférence en français d'Okhin"). Ne pas choisir son camp, comme une forme d'engagement, l'obstination de l'animal humain.
+
+Des outils ont été construits pour être résistants à la censure, ou à la destruction, des outils décentralisés. On commence à voir qu'ils fonctionnent bien. Tant mieux. Ils sont aussi utilisés par les dignes descendants des envahisseurs Mongols, c'est ainsi. Qu'on les condamne, c'est de bon ton. De toute façon on sent bien que nos polices sur-armées nous le demandent gentiment. Qu'on ferme leur compte, pourquoi pas. Les outils sont là. Ils sont sur le terrains, bien réels, pas venus de nulle part. Ils sont là pour rester, ils sont là pour s'imposer dans notre paysage audio-visuel numérisé et décentralisé. Je me rappelle d'un certain 12 septembre, où le chef sanguinaire des tribus d'Occident vociférait un étrange appel aux Croisades. J'avais pris conscience du retour des ténèbres. Dire que j'avais prévu des manifestations du type #IS serait un grossier mensonge. Je ne les aurais pas même imaginés. Pourtant, je ne suis qu'à moitié surpris. Et je ne vois pas bien comment on va s'en sortir.
+
+Un vrai merdier.
+
+J'arrose les plants de basilic sur le bord de ma fenêtre. Pendant ce temps des s&oelig;urs et frères humains meurent sous les bombes, ou les rafales d'armes automatiques. Quand tu meures, qu'importe ta langue, ta couleur de peaux, ta carte de parti ou de confession, si ton intégrisme se peint en vert et blanc ou en bleu, blanc et rouge. Tu as peur de la guerre mondiale ? Mais elle n'a cessé d'être sous tes yeux, à force de la répandre dans le monde, elle s'invite dans ton salon. Oui, on a l'air con. Ça ne fait que commencer.
+
+
