@@ -1,0 +1,76 @@
+
+Hello,
+
+Je te réponds avec un peu de délai. En bon adepte de la liberté informatique, je suis sensible à certaines particularités du réseau Internet, qui est valable pour son application la plus visible (le Web). La plus étonnante de ces particularité, c'est la "décentralisation", ou le fait que l'intelligence n'est pas dans le réseau ou le centre du réseau (comme c'est le cas pour le téléphone ou la télévision), mais à la périphérique, dans les machines qui sont connectées entre elle par le réseau.
+
+Ce qui signifie que pour échanger des e-mails, on n'a pas besoin d'un centre qui distribue les messages, comme c'est le cas avec les lettres postales. Du coup, on peut s'écrire des mails directement d'une machine à une autre, que ce soit avec @etu.hesge.ch ou @gmail.com ou... même @id-libre.org, qui est une machine dans mon salon, capable de recevoir et d'envoyer des mails.
+
+C'est le cas pour les pages web. Pour publier sur le Web, il "suffit" d'avoir un ordinateur, d'y installer un serveur Web (c'est en réalité très facile), d'avoir une connexion Internet et une adresse IP. Et c'est tout, ou presque. Il n'est pas nécessaire de demander la permission ou de s'incrire sur wordpress.com, ou que sais-je, même si c'est possible et très pratique.
+
+C'est le cas pour l'IRC, l'instant messaging et bien d'autres choses, comme les réseaux sociaux.
+
+A l'inverse, depuis 2000-2005, les grands acteurs du Web se sont imposés : Facebook, Google, Amazon, Twitter, Dropbox, Whatsapp, etc. Ce sont des services centralisés, à des degrés divers. Il est difficile de tchater avec un utilisateur de Facebook si tu n'as pas de comptes Facebook, pourtant, techniquement c'est tout à fait possible. Idem avec Whatsapp. Ces acteurs arrivent avec pas mal de succès à recentraliser le Web, à le transformer en une sorte de télé 2.0, dont le but est de garder l'utilisateur le plus captif possible (même s'ils n'y arrivent pas tout à fait) et faire du profit (pourquoi pas) grâce aux données personnelles des utilisateurs.
+
+J'ai d'abord quitté Facebook, parce que c'est à mon avis le plus fermé des services de type réseaux sociaux centralisé. Puis Twitter, pour des raisons similiaires, quand ils sont entrés en bourse. C'est leur droit et le mien de ne plus vouloir utiliser leur service. Linkedin, parce que j'avais le sentiment que c'était inutile et que si tu tapes igor milhit dans un moteur de recherche, tu trouves mon CV assez rapidemnent sans ce réseau. Google aussi, je l'utilises le moins possible, je n'ai pas de compte chez eux.
+
+J'essaie de faire sans, en développant mon propre serveur.
+Le 18. 10. 14 21:50, Richaume Monica (HES) a écrit :
+> Coucou !
+>
+> Ahahah ! J'en étais sûre, je sentais venir qu'au moins une personne me le dirai :-)
+>
+> Non tu n'es pas bizarre, j'étais d'ailleurs très réticente à venir sur FB, j'ai quitté mIRC en 2007 je suis sur FB depuis 2010, donc il n'y a pas si longtemps. 
+>
+> Si c'est pas trop indiscret pourquoi tu les a quitté ? Je suis curieuse.
+> Et puis twitter ? Les autres assistants s'en servent beaucoup il me semble ça n'est pas difficile dans le cadre du travail ?
+> Merci pour les infos je les transmettrai aux autres une fois que le groupe sera complet et devenu secret.
+> En tout cas c'est vraiment sympa de partager les info avec nous.
+>
+> Merci et bon dimanche !
+> Monica
+> ________________________________________
+> De : Igor Milhit [igor.milhit@hesge.ch]
+> Envoyé : samedi 18 octobre 2014 19:02
+> À : Richaume Monica (HES); Racine Alexandre (HES)
+> Objet : Re: Groupe FB
+>
+> Hello Monica,
+>
+> Merci pour l'initiative et l'information ! Il se trouve que je n'ai pas, enfin plus, de compte Facebook depuis quelques années. Je n'ai plus non plus de compte Twitter, de compte Linkedin depuis quelques mois, bientôt une année je pense.
+>
+> Par contre je suis actif sur quelques réseaux sociaux décentralisés et libres, comme par exemple :
+>
+>   *   http://social.id-libre.org/igor (il s'agit de mon instance de GnuSocial, qui communique avec celle des autres)
+>   *   https://diaspora-fr.org/u/igor (il s'agit d'une instance de diaspora*, qui elle aussi communique avec d'autres instances, comme celle de framasphere : https://framasphere.org/
+>
+> Si tu désires des informations supplémentaires sur ces réseaux, n'hésite pas à demander :)
+>
+> Et pour ce qui est de la communication directe, j'utilise soit l'Instant Messaging, avec mon adresse 1g0r@dukgo.com<mailto:1g0r@dukgo.com> ou encore via l'IRC, ce bon vieux protocole qui ne nécessite pas de compte, et on peut facilement me joindre sur deux salons IRC des serveurs freenode.org : #heg et #id-libre . De même, si ces méthodes de communications t'intéressent, je suis tout disposé à répondre à tes questions.
+>
+> Tu peux tout à fait communiquer ces informations sur le groupe Facebook dédié au mid.
+>
+> Puisqu'on y est, je t'informe que tous les fichiers numériques que j'utilise pour les cours, y compris mes notes, qui valent ce qu'elles valent, sont accessibles à l'URL suivante : https://id-libre.org/mid Il faut accepter le certificat, et pour l'identification, le nom d'utilisateur est "mid" et le mot de passe est "mid".
+> Tu peux également communiquer cette information aux autres, via le groupe Facebook.
+>
+> Je sais, je suis un peu bizarre et j'aime également le partage, à ma manière... :)
+>
+> Bonne fin de journée, bon dimanche, et à bientôt !
+>
+> iGor
+>
+> Le 18. 10. 14 10:21, Richaume Monica (HES) a écrit :
+>
+>
+>
+>
+> https://m.facebook.com/groups/masterid1416/
+>
+>
+>
+>
+>
+>
+>
+>
+>
+
