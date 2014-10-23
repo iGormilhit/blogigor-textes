@@ -14,7 +14,7 @@ A l'inverse, depuis 2000-2005, les grands acteurs du Web se sont imposés : Face
 J'ai d'abord quitté Facebook, parce que c'est à mon avis le plus fermé des services de type réseaux sociaux centralisé. Puis Twitter, pour des raisons similiaires, quand ils sont entrés en bourse. C'est leur droit et le mien de ne plus vouloir utiliser leur service. Linkedin, parce que j'avais le sentiment que c'était inutile et que si tu tapes igor milhit dans un moteur de recherche, tu trouves mon CV assez rapidemnent sans ce réseau. Google aussi, je l'utilises le moins possible, je n'ai pas de compte chez eux.
 
 J'essaie de faire sans, en développant mon propre serveur.
-Le 18. 10. 14 21:50, Richaume Monica (HES) a écrit :
+Le 18. 10. 14 21:50, XXX a écrit :
 > Coucou !
 >
 > Ahahah ! J'en étais sûre, je sentais venir qu'au moins une personne me le dirai :-)
@@ -31,10 +31,10 @@ Le 18. 10. 14 21:50, Richaume Monica (HES) a écrit :
 > ________________________________________
 > De : Igor Milhit [igor.milhit@hesge.ch]
 > Envoyé : samedi 18 octobre 2014 19:02
-> À : Richaume Monica (HES); Racine Alexandre (HES)
+> À : XXX
 > Objet : Re: Groupe FB
 >
-> Hello Monica,
+> Hello XXX, 
 >
 > Merci pour l'initiative et l'information ! Il se trouve que je n'ai pas, enfin plus, de compte Facebook depuis quelques années. Je n'ai plus non plus de compte Twitter, de compte Linkedin depuis quelques mois, bientôt une année je pense.
 >
@@ -58,19 +58,9 @@ Le 18. 10. 14 21:50, Richaume Monica (HES) a écrit :
 >
 > iGor
 >
-> Le 18. 10. 14 10:21, Richaume Monica (HES) a écrit :
+> Le 18. 10. 14 10:21, XXX a écrit :
 >
 >
 >
 >
-> https://m.facebook.com/groups/masterid1416/
->
->
->
->
->
->
->
->
->
-
+> https://m.facebook.com/groups/XXX/
