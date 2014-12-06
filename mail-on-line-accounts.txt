@@ -14,6 +14,7 @@ A l'inverse, depuis 2000-2005, les grands acteurs du Web se sont imposés : Face
 J'ai d'abord quitté Facebook, parce que c'est à mon avis le plus fermé des services de type réseaux sociaux centralisé. Puis Twitter, pour des raisons similiaires, quand ils sont entrés en bourse. C'est leur droit et le mien de ne plus vouloir utiliser leur service. Linkedin, parce que j'avais le sentiment que c'était inutile et que si tu tapes igor milhit dans un moteur de recherche, tu trouves mon CV assez rapidemnent sans ce réseau. Google aussi, je l'utilises le moins possible, je n'ai pas de compte chez eux.
 
 J'essaie de faire sans, en développant mon propre serveur.
+
 Le 18. 10. 14 21:50, XXX a écrit :
 > Coucou !
 >
