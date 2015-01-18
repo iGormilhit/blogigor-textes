@@ -114,7 +114,7 @@ _Par Lynn Hill_
 
 --------------------------
 
-Il s'agit du deuxième morceau du disque de Vijay Iyer, Mike Ladd, Maurice Decaul, Lynn Hill (et quelques autres), intitulé [Holding It Down : The Veterans' Dream Project](http://pirecordings.com/album/pi49). Cet album porte les mots de vétérans des guerres criminelles (par définition, mais dans ces cas aussi selon les lois internationales) en Afghanistan et en Irak.
+Il s'agit du troisième morceau du disque de Vijay Iyer, Mike Ladd, Maurice Decaul, Lynn Hill (et quelques autres), intitulé [Holding It Down : The Veterans' Dream Project](http://pirecordings.com/album/pi49). Cet album porte les mots de vétérans des guerres criminelles (par définition, mais dans ces cas aussi selon les lois internationales) en Afghanistan et en Irak.
 
 J'ai commencé à traduire maladroitement ces textes en [novembre 2013](article88/here-ici) et depuis [décembre de la même année](article91/derelict-poetry-poesie-en-ruine), je n'ai plus rien traduit. Il se trouve que dans la suite des assassinats perpétrés le 7 janvier 2015 dans les locaux de Charlie Hebdo, au cours de différentes lectures (par exemple [l'art de la guerre](http://lundi.am/?article25)) ou relectures (comme [The due-process-free assassination of U.S. citizens is now reality](http://www.salon.com/2011/09/30/awlaki_6/)), j'ai pensé reprendre ces traductions.
 
