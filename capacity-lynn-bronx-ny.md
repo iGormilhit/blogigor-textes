@@ -61,7 +61,7 @@ _By Lynn Hill_
 # Capable
 ## Lynn, Bronx, NY
 
-Je suis capable de faire la guerre   
+Je suis capable de guerre   
 Je suis capable de haine   
 Je suis capable de démence   
 de colère   
@@ -71,10 +71,10 @@ Cinq cent mille six cent minutes
 fois deux   
 avant d'éclater   
 en une explosion de pensées   
-et de moyens de protection des insurgés   
+et de moyens de protection insurgés   
 et de réorientation de carrière.
 
-Une capcité de destruction   
+Une capacité de destruction   
 Une capacité de perte   
 Une capacité de mort   
 de violence   
@@ -83,24 +83,27 @@ de néant.
 Vingt quatre mois de souffrance et de dégoût   
 Les actes de mes mains me condamnent   
 Charge : détails peu clairs et renseignements incertains   
-Pourtant, j'ai appuyé sur la gachette.
+Pourtant, j'ai pressé sur la détente.
 
 Il y a une limite à la folie, la jauge butte à 2 ans   
-Mais ils distribuent du poison comme des entrées pour Blueberry Hill   
+Mais ils distribuent du poison comme ces entrées à Blueberry Hill   
 Le délire avec un côté engourdi.
 
-_Mike Ladd : Quand tu quittais Predator, chaque jour, que faisais-tu en premier ? Et à quoi pensais-tu avant d'aller au lit, ce soir-là ?_
+Il faut 63'072'000 secondes pour aller de moi à quelqu'un d'autre
+Pour changer.
 
-Lynn Hill : La première chose que je faisais était de sortir et de marcher jusqu'à ma voiture et je m'asseyais dans la voiture et je décompressais de tout ce qui s'était passé ce jour-là. Essayer avec force de me débarrasser de tout ce qui n'était pas moi ; essayer de faire avec la culpabilité de ce que j'avais fait ce jour-là ; et espérer que lorsque je démarrais la voiture, ça ne ressemble pas au joystick que j'avais piloté tout au long de la journée ; et quand je conduisais, c'était le silence de simplement entendre le murmure de la voiture, les fenêtres fermées pour que rien ne puisse me distraire, rien que du bruit blanc.
+_Mike Ladd : Quand tu quittais Predator^[Drone de l'armée US : [https://fr.wikipedia.org/wiki/MQ-1_Predator](https://fr.wikipedia.org/wiki/MQ-1_Predator)], chaque jour, que faisais-tu en premier ? Et à quoi pensais-tu avant d'aller au lit, ce soir-là ?_
 
-Et quand j'étais au lit, la dernière chose à laquelle je pensais étaient les familles de ces autres gens, et à comment ils me ressemblaient, et que j'aurais pu être de l'autre côté de ces collimateurs. Et aux raisons pour lesquelles j'étais en mesure d'être ici et que les autres Sergents devaient être là-bas.
+Lynn Hill : La première chose que je faisais était de sortir et de marcher jusqu'à ma voiture et je m'asseyais dans la voiture et je décompressais de tout ce qui s'était passé ce jour-là. Essayer obstinément de me débarrasser de tout ce qui n'était pas moi ; essayer de faire face à la culpabilité de ce que j'avais fait ce jour-là ; et espérer que lorsque je démarrais la voiture, ça ne ressemble pas au joystick que j'avais piloté tout au long de la journée ; et quand je conduisais, c'était silencieux, simplement entendre le murmure de la voiture, les fenêtres fermées pour que rien ne puisse me distraire, rien que du bruit blanc.
+
+Et quand j'étais au lit, la dernière chose que je pensais étaient aux familles de ces autres personnes, comment ils me ressemblaient, et que j'aurais pu être de l'autre côté de ces viseurs. Et aux raisons pour lesquelles j'étais en mesure d'être ici et que les autres Sergents devaient être là-bas.
 
 _ML : Est-ce que ça avait un effet sur tes rêves ?_
 
-LH : Ça avait un effet sur mes rêves, dans lesquels je pensais que j'aurais dû être là-bas. Et parfois c'était juste noir ; c'était comme de la fumée qui... s'enroule^[_to whool around_, je n'ai pas trouvé de trace de ce verbe dans un quelconque dictionnaire, je suppose une licence ou une erreur typographique, mais je n'ai aucune piste un tant soit peu concrète] autour de moi, dans ma tête, et j'étais toujours dans ma voiture au bord d'une falaise, prête à tomber.
+LH : Ça avait un effet sur mes rêves, dans lesquels je pensais que j'aurais dû être là-bas. Et parfois c'était juste noir ; c'était comme de la fumée qui... s'enroulait^[_to whool around_, je n'ai pas trouvé de trace de ce verbe dans un quelconque dictionnaire, je suppose une licence, de l'argot ou une erreur typographique, mais je n'ai aucune piste concrète] autour de moi, dans ma tête, et j'étais toujours dans ma voiture au bord d'une falaise, prête à tomber.
 
-_ML : C'était le rêve ? Toi dans une voiture au bord d'une falaise, prête à sauter ?_
+_ML : C'était ton rêve ? Toi dans une voiture au bord d'une falaise, prête à sauter ?_
 
-LH : C'était mon rêve. Qu'à chaque minute je pouvais sortir de la route et que ça arrêterait tout et que ce serait fini. Et il y avait un nuage noir au-dessus de moi, comme Predator, quelqu'un qui m'observait continuellement, comme Big Brother. Et c'était visible. Parce que c'est comme si tu étais Linus _(rires)_ des _Peanuts_ : ce nuage noir pouvait te suivre partout. Et tu ne peux pas vraiment le semer, parce qu'en partie c'est en quelque sorte ta faute.
+LH : C'était mon rêve. Qu'à chaque minute je pouvais sortir de la route et que ça arrêterait tout et que ce serait fini. Et il y avait un nuage noir au-dessus de moi, comme Predator, quelqu'un qui m'observait continuellement, comme Big Brother. Et c'était visible. Parce que c'est comme si tu étais Linus _(rires)_ des _Peanuts_^[[https://fr.wikipedia.org/wiki/Peanuts](https://fr.wikipedia.org/wiki/Peanuts)] : ce nuage noir pouvait te suivre partout. Et tu ne peux pas vraiment le semer, parce qu'en partie c'est en quelque sorte ta faute.
 
 _Par Lynn Hill_
