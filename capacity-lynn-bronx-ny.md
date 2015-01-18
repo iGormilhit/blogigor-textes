@@ -58,6 +58,8 @@ LH: That was my dream. That any minute I could just drive off and it would end i
 
 _By Lynn Hill_
 
+-------------------
+
 # Capable
 ## Lynn, Bronx, NY
 
@@ -89,7 +91,7 @@ Il y a une limite à la folie, la jauge butte à 2 ans
 Mais ils distribuent du poison comme ces entrées à Blueberry Hill   
 Le délire avec un côté engourdi.
 
-Il faut 63'072'000 secondes pour aller de moi à quelqu'un d'autre
+Il faut 63'072'000 secondes pour aller de moi à quelqu'un d'autre   
 Pour changer.
 
 _Mike Ladd : Quand tu quittais Predator^[Drone de l'armée US : [https://fr.wikipedia.org/wiki/MQ-1_Predator](https://fr.wikipedia.org/wiki/MQ-1_Predator)], chaque jour, que faisais-tu en premier ? Et à quoi pensais-tu avant d'aller au lit, ce soir-là ?_
@@ -107,3 +109,19 @@ _ML : C'était ton rêve ? Toi dans une voiture au bord d'une falaise, prête à
 LH : C'était mon rêve. Qu'à chaque minute je pouvais sortir de la route et que ça arrêterait tout et que ce serait fini. Et il y avait un nuage noir au-dessus de moi, comme Predator, quelqu'un qui m'observait continuellement, comme Big Brother. Et c'était visible. Parce que c'est comme si tu étais Linus _(rires)_ des _Peanuts_^[[https://fr.wikipedia.org/wiki/Peanuts](https://fr.wikipedia.org/wiki/Peanuts)] : ce nuage noir pouvait te suivre partout. Et tu ne peux pas vraiment le semer, parce qu'en partie c'est en quelque sorte ta faute.
 
 _Par Lynn Hill_
+
+--------------------------
+
+Il s'agit du deuxième morceau du disque de Vijay Iyer, Mike Ladd, Maurice Decaul, Lynn Hill (et quelques autres), intitulé [Holding It Down : The Veterans' Dream Project](http://pirecordings.com/album/pi49). Cet album porte les mots de vétérans des guerres criminelles (par définition, mais dans ces cas aussi selon les lois internationales) en Afghanistan et en Irak.
+
+J'ai commencé à traduire maladroitement ces textes en [novembre 2013](article88/here-ici) et depuis [décembre de la même année](article91/derelict-poetry-poesie-en-ruine), je n'ai plus rien traduit. Il se trouve que dans la suite des assassinats perpétrés le 7 janvier 2015 dans les locaux de Charlie Hebdo, au cours de différentes lectures (par exemple [l'art de la guerre](http://lundi.am/?article25)) ou relectures (comme [The due-process-free assassination of U.S. citizens is now reality](http://www.salon.com/2011/09/30/awlaki_6/)), j'ai pensé reprendre ces traductions.
+
+Il me semble de plus en plus frappant que la majorité des civils, qu'ils soient d'Europe de l'Ouest, des États-Unis d'Amérique du Nord, d'Afrique du Nord et de l'Ouest, de la péninsule arabique, du Proche-Orient, du Moyen-Orient ou d'Extrême-Orient, sont les victimes des guerriers, de nos États ou de leurs opposants. Toute forme d'union nationale, parce qu'elle est nationale, est un piège pour nous embrigader dans une guerre qui n'est pas la nôtre, du moins pas la mienne.
+
+Je ne reconnais aucun gouvernement, qu'il soit élu dans un système représentatif ou auto-institué. Les bandes de cons, ça tue énormément.
+
+Si tu as des améliorations de traduction à suggérer, n'hésite pas à les indiquer dans les commentaires ou à les proposer via [github](https://github.com/iGormilhit/blogigor-textes), sur le fichier `capacity-lynn-bronx-ny.md`. Merci.
+
+Si l'on veut la paix, commençons par la faire.
+
+
