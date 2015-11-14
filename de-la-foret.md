@@ -1,0 +1,1 @@
+des profondeurs de la forêt, sourd une angoisse sans mystère, le chapelet des cadavres qui débordent, polis, dans l'ordre, ô l'ordre, de l'armoire aux oublis, de l'armoire aux refoulés, aux refoulements
