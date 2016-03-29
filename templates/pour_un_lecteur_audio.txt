@@ -1,0 +1,19 @@
+# Ce qui suit est le code pour intégrer de la musique sur le blog :
+# C'est-à-dire les lignes qui n'ont pas de # au début
+# Je t'envoie ci-joint les fichiers musicaux dans le format adéquat.
+# A la place des chiffres, il faut mettre :
+# pour 1, si tu veux, tu mets les données du morceau : titre et auteur, par exemple. Si tu ne veux pas, tu effaces le 1
+# pour 2, après avoir uploadé le fichier dans tes médias, tu mets le lien qui mène vers le fichier en .OGG
+# pour 3, la même chose pour le fichier en .MP3
+# pour 4, tu peux remettre le lien pour le fichier soit en .OGG soit en .MP3 C'est pour les gens dont la navigateur est trop vieux pour lire
+# la balise audio. Comme ça ils peuvent télécharger le fichier, par exemple.
+# en 5, comme pour 1, tu peux écrire un texte qui annonce la possibilité du téléchargement, si tu ne veux pas, efface le 5
+# Tu peux enregistrer ce fichier quelque part pour si jamais...
+
+
+
+<audio controls="controls" title="">
+		<source src="2" type="audio/ogg; codecs=vorbis">
+		<source src="3" type="audio/mp3">
+		Ton navigateur ne supporte pas la balise audio html5 ? <a href="4" title="5">Télécharge le fichier</a>.
+</audio>
