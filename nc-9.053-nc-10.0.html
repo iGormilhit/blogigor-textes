@@ -1,0 +1,43 @@
+<p>Dans le courant du mois de juin 2016, au lieu de mettre à jour mon instance ownCloud de la version 8 à la version 9, comme un certain nombre de personne, j'étais passé à NextCloud. Cette migration s'était déroulée de manière similaire à une mise à jour habituelle. Les mises à jour mineures suivantes n'ont pas dérogé à ce principe. Et tout récemment, l'équipe de NextCloud a officiellement sorti la version 10 dans le canal stable.</p>
+<p>C'est un peu irrationnel de ma part, peut-être, mais avant de faire cette mise à jour, je voulais m'assurer que les applications que j'utilise le plus étaient encore compatibles. Pour ce qui est de <a href="https://apps.nextcloud.com/app/calendar"><em>Calendar</em></a> et <a href="https://apps.owncloud.com/content/show.php/Calendar?content=168707"><em>Contacts</em></a>, le doute n'était pas bien grand, par contre je n'étais pas certain de <a href="https://apps.owncloud.com/content/show.php/Tasks?content=164356"><em>Tasks</em></a>, que j'utilise beaucoup, ou <a href="https://github.com/owncloud/notes"><em>Notes</em></a>.</p>
+<p>Or, si l'on consulte <a href="https://apps.nextcloud.com">apps.nextcloud</a>, on n'en apprend pas encore beaucoup. Et sur <a href="https://apps.owncloud.com/">apps.owncloud</a>, il est assez rare d'avoir une information sur la compatibilité avec NextCloud... Alors, comment faire ?</p>
+<p>J'ai utilisé une image <em>Docker</em> : <a href="https://hub.docker.com/r/wonderfall/nextcloud/">wonderfall/nextcloud</a>. Il y a un <code>docker-compose.yaml</code> quasi tout prêt, ainsi que la méthode pour compléter le <code>config.php</code>, afin de pouvoir ajouter manuellement des applications.</p>
+<p>Je précise que je ne maîtrise pas <em>Docker</em>, aussi il y a certainement d'autres méthodes. Je me suis placé dans un répertoire créé pour la manœuvre, bien entendu sur une machine en local, et pas sur mon serveur. J'y ai créé le fichier <code>docker-compose.yaml</code> sur l'exemple donné :</p>
+<pre><code>nextcloud:
+  image: wonderfall/nextcloud
+  links:
+    - db_nextcloud:db_nextcloud
+  environment:
+    - UID=1000
+    - GID=1000
+  volumes:
+    - /mnt/nextcloud/data:/data
+    - /mnt/nextcloud/config:/config
+    - /mnt/nextcloud/apps:/apps2
+
+db_nextcloud:
+  image: mariadb:10
+  volumes:
+    - /mnt/nextcloud/db:/var/lib/mysql
+  environment:
+    - MYSQL_ROOT_PASSWORD=supersecretpassword
+    - MYSQL_DATABASE=nextcloud
+    - MYSQL_USER=nextcloud
+    - MYSQL_PASSWORD=supersecretpassword</code></pre>
+<p>Il est bien entendu conseillé de changer les <code>supersecretpassword</code>, mais comme j'allais rester en local...</p>
+<p>Ensuite, on peut lancer le tout avec <code>docker-compose up -d</code>. Une fois les images téléchargées, montées et liées, il fallait trouver comment y accéder et comment finir l'installation. On trouve le nom des images montées avec <code>docker ps -a</code> et ensuite on peut connaître les IP des images avec <code>docker inspect [nom de l'image]</code>. Ce qui est utile pour ouvrir la bonne adresse dans son navigateur, ainsi que pour renseigner correctement le script d'installation, à savoir donner la bonne IP pour joindre le serveur MariaDB.</p>
+<p>Une fois cela fait, il reste à modifier le <code>config.php</code> pour pouvoir utiliser le répertoire des applications, en ajoutant les lignes suivantes :</p>
+<pre><code>  &quot;apps_paths&quot; =&gt; array (
+      0 =&gt; array (
+              &quot;path&quot;     =&gt; &quot;/nextcloud/apps&quot;,
+              &quot;url&quot;      =&gt; &quot;/apps&quot;,
+              &quot;writable&quot; =&gt; false,
+      ),
+      1 =&gt; array (
+              &quot;path&quot;     =&gt; &quot;/apps2&quot;,
+              &quot;url&quot;      =&gt; &quot;/apps2&quot;,
+              &quot;writable&quot; =&gt; true,
+      ),
+  ),</code></pre>
+<p>Ainsi, j'ai pu m'assurer que toutes les applications que j'utilisent sont en effet compatibles. Pour la plupart, je n'ai eu qu'à les activer : <em>Calendar</em>, <em>Contacts</em>, <em>Documents</em>, <em>Tasks</em>, mais j'ai dû télécharger <a href="https://github.com/nextcloud/announcementcenter"><em>Announcement Center</em></a> et <em>Notes</em>.</p>
+<p>Fort de cette information, j'ai mis à jour mon instance de la version 9.0.53 à la version 10.0, <a href="https://docs.nextcloud.com/server/10/admin_manual/maintenance/manual_upgrade.html">manuellement, avec la même procédure que d'habitude</a>, sans problème.</p>
