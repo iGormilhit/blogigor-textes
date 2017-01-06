@@ -1,0 +1,7 @@
+Avant d'aller synthétiser ces informations sur mes [notes](/notes "le wiki d'id-libre.org"), je rédige un bref billet pour documenter ma méthode pour numériser un « vinyl » à l'aide du logiciel [Audacity](http://www.audacityteam.org/ "site officiel d'Audacity"). C'est d'ailleurs surtout mon utilisation de ce logiciel dont il est question ici, pas des questions de matériel, branchement ou de méthode de description des documents numérisés, même si forcément j'en touche quelques mots en passant.
+
+Audacity n'est peut-être pas ton logiciel de prédilection, mais je pense qu'il compte parmi les meilleurs. Son interface n'est pas la plus simple qui existe, ni la plus sophistiquée, mais c'est un logiciel de qualité, professionnel et, surtout, il est libre. Pour l'installation, il est dans les dépôts des distributions GNU/Linux qui se respectent, sinon, tu trouveras de quoi faire sur la page de [téléchargement](http://www.audacityteam.org/download/ "Page de téléchargement officielle d'Audacity") officielle du logicielle.
+
+Une fois le logiciel installé et le branchement de la platine effectué, on est prêt. On peut lancer Audacity. [présentation rapide de l'interface]. Je commence en général par mettre activer l'enregistrement en mode pause, en cliquant d'abord sur le bouton pause, puis sur le bouton d'enregistrement. On peut vérifier la qualité du son, si le volume n'est pas trop faible ou trop fort. 
+
+Une bonne documentation sur le domaine : http://manual.audacityteam.org/man/sample_workflow_for_lp_digitization.html
